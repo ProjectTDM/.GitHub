@@ -7,6 +7,9 @@
 - 現在更新作業は行っておりませんが、基本的なコマンドしか使っていないため恐らく最新バージョンでも使えると思います。<br>
   (念のため、[Data Pack Upgrader(Developed by Misode)](https://misode.github.io/upgrader/)等を用いることをおすすめします(正常に動作する保証はいたしません)。
 
+## Contact Me
+お問い合わせは[ホーム](../../../../)に記載のメールアドレス、TwitterのDMまたは[お問い合わせ用フォーム](https://forms.gle/YkyyajNfbDiMLdie6)にて受け付けております。お気軽にお問い合わせください。
+
 ## Attention (LicenseがCC0のものを除く)
 - 動画内での使用(改変したものを含む)はRepositoryへのリンク**または**製作者が「ツナ缶入りマザボ」だと分かる表記を**良ければ**お願いします。
 - データパックを旧バージョンのMinecraftに対応([keiba-assistant](../../../../keiba-assistant)なら、v4.0.0を1.18に対応)など改変をしたものの配布は、Repositoryへのリンク**及び**元の製作者が「ツナ缶入りマザボ」だと分かる表記をお願いします。<br>(GitHub内の場合Forkのみでも可)
